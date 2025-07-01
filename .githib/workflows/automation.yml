@@ -3,7 +3,7 @@ name: "automate-all-the-things"
 on:
   push:
     branches:
-      - 'main'  # Триггер: пуш в ветку master
+      - 'master'  # Триггер: пуш в ветку master
 
 jobs:
   build_and_push:
