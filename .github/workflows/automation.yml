@@ -18,4 +18,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: newstudent08/Doker2:latest
+          tags: newstudent08/doker2:latest
